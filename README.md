@@ -1,4 +1,4 @@
-# AttractToSound — Fear & Voice Integration 🔊😱
+# AttractToSound — Fear & Voice Integration 
 
 > Minecraft Forge мод для версии 1.20.1
 > Форк оригинального AttractToSound с добавлением системы страха и интеграции с Simple Voice Chat
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧩 Стек
+## Стек
 
 - **Язык:** Java 17
 - **Платформа:** Minecraft Forge 1.20.1
@@ -15,7 +15,7 @@
 
 ---
 
-## ⚙️ Что делает мод
+## Что делает мод
 
 Оригинальный мод **AttractToSound** заставляет мобов реагировать на звуки в игре.
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 😱 Система страха
+## Система страха
 
 Страх — значение от 0 до 100, хранится у каждого игрока через Capability API.
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 🎙 Интеграция с Simple Voice Chat
+## Интеграция с Simple Voice Chat
 
 Когда игрок говорит в войс-чат — его уровень страха повышается.
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 📁 Структура
+## Структура
 
 ```
 src/main/java/com/example/soundattract/
@@ -102,7 +102,7 @@ src/main/java/com/example/soundattract/
 
 ---
 
-## 🔧 Сборка
+##  Сборка
 
 ```bash
 ./gradlew build
